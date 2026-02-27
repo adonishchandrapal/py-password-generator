@@ -25,4 +25,4 @@ password = ""
 for character in password_list:
     password += character
 
-print(password)
+print(f"\nGenerated Password: {password}")
